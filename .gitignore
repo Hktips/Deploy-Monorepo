@@ -4,7 +4,8 @@
 node_modules
 .pnp
 .pnp.js
-
+todo-apps.pem
+todo-apps
 # testing
 coverage
 
